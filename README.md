@@ -7,6 +7,6 @@ O objetivo é utilizar o PIC16F870 embarcado em uma placa com um display de led 
 exibido a hora, minuto e segundo.
 
 Contribuições do código:
-Luis Henrique Fedrizze
-William Vecchini
-Lucas Dário Frias
+- Luis Henrique Fedrizze
+- William Vecchini
+- Lucas Dário Frias
